@@ -2,6 +2,15 @@
 title: "lab7"
 ---
 
-asdsdf
 
+# Статьи
 
+---
+listing:
+    contents: posts
+    type: grid
+    sort: 
+    - "date"
+    - "title desc"
+    fields: [date, title]
+---
