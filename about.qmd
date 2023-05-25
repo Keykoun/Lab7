@@ -1,6 +1,14 @@
 ---
 title: "О сайте"
+about:
+  template: jolla
+  image: pumpedGura.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Keykoun
 ---
+
 
 Сайт сделал Разаков Д.Р. 
 БИСО-03-20
